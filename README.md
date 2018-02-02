@@ -1,4 +1,4 @@
-# [AndroidFlowChart](https://github.com/JantHsueh/AndroidFlowChart)
+# [Android-UML-Diagram](https://github.com/JantHsueh/Android-UML-Diagram)
 
 android 部分源码的流程图、时序图、类图，帮助更好的理解和记忆源码。
 
