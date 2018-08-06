@@ -6,8 +6,6 @@ android 部分源码的流程图、时序图、类图，帮助更好的理解和
 
 **说明：由于Android 源码很复杂，这些图表都是描述了一个大概的过程，为了快速理解源码，很多不是很重要的代码，在图表中省略了。也就是说图表中分析不会包含Android中的每一行代码**
 
-- 画图工具：https://www.processon.com
-
 
 
 # Android 源码内容：
@@ -20,4 +18,7 @@ android 部分源码的流程图、时序图、类图，帮助更好的理解和
 
 # 加入我们：
 
-非常欢迎有兴趣的小伙伴，一起来完善、改正、丰富这个项目。欢迎[pull requests](https://github.com/JantHsueh/AndroidFlowChart/pulls)
+非常欢迎有兴趣的小伙伴，一起来完善、改正、丰富这个项目。欢迎[pull requests](https://github.com/JantHsueh/Android-Source-Code/pulls)
+
+------------------------------------
+- 画图工具：https://www.processon.com
