@@ -12,10 +12,10 @@ android 部分源码的流程图、时序图、类图，帮助更好的理解和
 
 # Android 源码内容：
 
-- [setContent和inflate](https://github.com/JantHsueh/AndroidFlowChart/tree/master/setContent%E5%92%8Cinflate)
-- [view 事件分发](https://github.com/JantHsueh/AndroidFlowChart/tree/master/view%20%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91)
-- [window和windowManager](https://github.com/JantHsueh/AndroidFlowChart/tree/master/window%E5%92%8CwindowManager)
-- [Activity 工作工程](https://github.com/JantHsueh/Android-UML-Diagram/tree/master/Activity%20%E5%B7%A5%E4%BD%9C%E8%BF%87%E7%A8%8B)
+- [setContent和inflate](https://github.com/JantHsueh/Android-Source-Code/tree/master/setContent%E5%92%8Cinflate)
+- [view 事件分发](https://github.com/JantHsueh/Android-Source-Code/tree/master/view%20%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91)
+- [window和windowManager](https://github.com/JantHsueh/Android-Source-Code/tree/master/window%E5%92%8CwindowManager)
+- [Activity 工作工程](https://github.com/JantHsueh/Android-Source-Code/tree/master/Activity%20%E5%B7%A5%E4%BD%9C%E8%BF%87%E7%A8%8B)
 - ...继续完善中
 
 # 加入我们：
